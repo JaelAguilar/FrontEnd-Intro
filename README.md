@@ -22,3 +22,18 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 * [Identificación del público objetivo](Público_Objetivo.pdf)
 * [Creación del Wireframe](Wireframe.pdf)
 * [Creación del UI](UI.pdf)
+
+## Resultado final del UI
+
+### Formulario
+
+![](image/README/1646447882716.png)
+
+### Creación de cuenta / Inicio de sesión
+
+![img](image/README/1646447949170.png)
+
+
+### Dashboard
+
+![img](image/README/1646447921511.png)
